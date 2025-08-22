@@ -9,7 +9,7 @@ import { FotosGrid } from '@/components/fotosGrid';
 import { Blend, Sparkles, ArrowRight } from 'lucide-react';
 import { toast } from 'sonner';
 
-import ibsen from '@/assets/Ibsen.png'
+import ibsen from '@/assets/ibsen.png'
 import fusao from '@/assets/fusao.png'
 import hotel from '@/assets/hotel.png'
 import heroImage from '@/assets/hero-fusion.jpg';
